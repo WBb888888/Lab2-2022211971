@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="070f7b73-8111-43f9-a22d-3c263bdb4f3c" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/L2022211971_12_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution9.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\JAVATOOLS\apache-maven-3.9.6" />
+        <option name="localRepository" value="D:\Idea\jar" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\JAVATOOLS\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ne7tt3Qe00fny0Pil9w3a9kD0b" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.L2022211971_12_Test.testMultiply.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "go.import.settings.migrated": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Users/xue-cheng",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="L2022211971_12_Test.testMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="L2022211971_12_Test" />
+      <option name="METHOD_NAME" value="testMultiply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.L2022211971_12_Test.testMultiply" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="070f7b73-8111-43f9-a22d-3c263bdb4f3c" name="更改" comment="" />
+      <created>1729321906831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729321906831</updated>
+      <workItem from="1729321909280" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
